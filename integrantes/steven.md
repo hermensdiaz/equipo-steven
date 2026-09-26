@@ -1,4 +1,4 @@
-# Hermen Steven Diaz Euan
+# Hermen Steven Diaz Euan.
 
 - **Nombre:** Hermen Steven Diaz Euan
 - **Carrera:** Ingeniería de Software
